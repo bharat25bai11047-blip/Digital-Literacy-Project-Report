@@ -1,0 +1,5 @@
+# TASK 3: Platforms
+
+To help me grow both technically and academically, I’ve been spending a lot of time on **Google Forms** and **HackerRank**. I used Google Forms to practice building structured surveys and quizzes, which taught me how to collect information efficiently and analyze data from different groups of people. On HackerRank, I’ve been diving into coding challenges, focusing on languages like Python and C++. It’s been a great way to take the logic I learn in class and actually apply it to solve tricky, real-world problems.
+
+Looking ahead, these tools are going to be a huge help in my studies. I plan to use Google Forms for research projects and group assignments whenever I need to gather feedback or organize data for a presentation. HackerRank will basically be my "coding gym"—a place where I can keep my skills sharp and prepare for technical exams. By using both, I’m not just reading about technology; I’m actually getting hands-on experience that makes the more difficult academic concepts feel a lot more manageable.
